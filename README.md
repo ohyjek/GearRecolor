@@ -15,7 +15,7 @@
 
 ## Screenshot
 
-![GearRecolor slash-command legend](assets/screenshots/legend-chat.png)
+![GearRecolor slash-command legend](assets/screenshots/legend-chat-v2.png)
 
 ## Compatibility
 
