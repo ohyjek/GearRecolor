@@ -1,0 +1,10 @@
+## Interface: 120001
+## Title: GearRecolor
+## Notes: Colors upgrade track tooltip lines (Adventurer, Veteran, Champion, Hero, Myth)
+## Author: Glomb
+## Version: 1.1.3
+## License: MIT
+## X-Website: https://github.com/ohyjek/GearRecolor
+## X-Issues: https://github.com/ohyjek/GearRecolor/issues
+
+GearRecolor.lua
