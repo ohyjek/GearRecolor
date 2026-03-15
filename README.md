@@ -13,6 +13,10 @@
 - `/gearrecolor` - Print the upgrade-track color legend in chat.
 - `/grc` - Short alias for the same legend output.
 
+## Screenshot
+
+![GearRecolor slash-command legend](assets/screenshots/legend-chat.png)
+
 ## Compatibility
 
 - WoW flavor: Retail
