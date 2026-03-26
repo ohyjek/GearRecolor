@@ -1,8 +1,10 @@
 ## Interface: 120001
 ## Title: GearRecolor
-## Notes: Colors upgrade track tooltip lines (Adventurer, Veteran, Champion, Hero, Myth)
+## Notes: |cff66ccffCustomize upgrade-track colors|r for item tooltips (|cff1eff00Adventurer|r, |cff0070ddVeteran|r, |cffa335eeChampion|r, |cffff8000Hero|r, |cffb22222Myth|r)
 ## Author: Glomb
 ## Version: 1.0.0
+## IconTexture: Interface\AddOns\GearRecolor\assets\icons\gearrecolor-g
+## X-Icon: Interface\AddOns\GearRecolor\assets\icons\gearrecolor-g
 ## License: MIT
 ## X-Website: https://github.com/ohyjek/GearRecolor
 ## X-Issues: https://github.com/ohyjek/GearRecolor/issues
