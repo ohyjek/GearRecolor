@@ -2,7 +2,7 @@
 ## Title: GearRecolor
 ## Notes: |cff66ccffCustomize upgrade-track colors|r for item tooltips (|cff1eff00Adventurer|r, |cff0070ddVeteran|r, |cffa335eeChampion|r, |cffff8000Hero|r, |cffb22222Myth|r)
 ## Author: Glomb
-## Version: 1.0.0
+## Version: 1.0.1
 ## IconTexture: Interface\AddOns\GearRecolor\assets\icons\gearrecolor-g
 ## X-Icon: Interface\AddOns\GearRecolor\assets\icons\gearrecolor-g
 ## License: MIT
