@@ -13,6 +13,14 @@
 - `/gearrecolor` - Print the upgrade-track color legend in chat.
 - `/grc` - Short alias for the same legend output.
 
+## Options
+
+- Open `Esc -> Options -> AddOns -> GearRecolor`.
+- The panel shows all upgrade tracks and their current colors.
+- All upgrade tracks are editable via the built-in color picker.
+- Use `Reset to default` to restore any track color.
+- Each row shows inline `Saved`/`Reset` feedback beside the controls.
+
 ## Screenshot
 
 ![GearRecolor slash-command legend](assets/screenshots/legend-chat-v2.png)

@@ -6,6 +6,7 @@
 ## License: MIT
 ## X-Website: https://github.com/ohyjek/GearRecolor
 ## X-Issues: https://github.com/ohyjek/GearRecolor/issues
+## SavedVariables: GearRecolorDB
 
 Core/Bootstrap.lua
 Features/Commands.lua
