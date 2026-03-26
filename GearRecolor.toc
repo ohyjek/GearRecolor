@@ -7,4 +7,7 @@
 ## X-Website: https://github.com/ohyjek/GearRecolor
 ## X-Issues: https://github.com/ohyjek/GearRecolor/issues
 
-GearRecolor.lua
+Core/Bootstrap.lua
+Features/Commands.lua
+UI/OptionsPanel.lua
+Features/TooltipColoring.lua
